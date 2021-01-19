@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CarBoard</string>
+    <string name="splash">CarBoard</string>
+    <string name="airbagList">
+        <li>1) Faulty seat belt</li>\n\n
+        <li>2) Corroded sensors</li>\n\n
+        <li>3) Depleted battery</li>\n\n
+        <li>4) Airbag needs resetting</li>
+    </string>
+
+    <string name="batteryList">
+        <li>1) Corroded battery cables</li>\n\n
+        <li>2) Loose battery cables</li>\n\n
+        <li>3) Damaged battery cells</li>\n\n
+        <li>4) Faulty alternator or voltage regulator</li>
+    </string>
+
+    <string name="brakesList">
+        <li>1) Low brake fluid</li>\n\n
+        <li>2) Faulty ABS module</li>\n\n
+        <li>3) Faulty hydraulic pump</li>\n\n
+        <li>4) Faulty speed sensor</li>
+    </string>
+
+    <string name="tcsList">
+        <li>1) Vehicle temporarily lost traction</li>\n\n
+        <li>2) Faulty speed sensor</li>\n\n
+        <li>3) Faulty TCS computer</li>\n\n
+    </string>
+
+    <string name="engineList">
+        <li>1) Mass Airflow Sensor</li>\n\n
+        <li>2) Gas cap</li>\n\n
+        <li>3) Oxygen sensor</li>\n\n
+        <li>4) Spark plugs</li>\n\n
+    </string>
+
+    <string name="tireList">
+        <li>1) Cold weather leaks</li>\n\n
+        <li>2) Over time leaks</li>\n\n
+        <li>3) Puncture leaks</li>\n\n
+        <li>4) Using non OEM wheels</li>
+    </string>
+
+    <string name="tempList">
+        <li>1) Low coolant level</li>\n\n
+        <li>2) Extremely hot coolant temperature</li>
+    </string>
+</resources>
