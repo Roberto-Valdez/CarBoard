@@ -5,3 +5,7 @@ CarBoard is an Android app that helps you to diagnose what your car's dashboard 
 # Demo
 
 ![appdemo](https://user-images.githubusercontent.com/43326202/105081799-ac5bf500-5a60-11eb-8a69-c3306c259e74.gif)
+
+# Credits
+
+<div>App Home Icon made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
